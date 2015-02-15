@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/api/java"/>
+	<classpathentry kind="src" path="src/impl/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="C:/Users/Soumyajyoti/Desktop/software/Eclipse/workspace/TestJXLS/JXLS_JARS/jxls-core-1.0.5.jar" sourcepath="C:/Users/Soumyajyoti/Desktop/software/Eclipse/workspace/TestJXLS/jxls-1.0.5.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Soumyajyoti/Desktop/software/Eclipse/workspace/TestJXLS/JXLS_JARS/jxls-reader-1.0.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
